@@ -1,0 +1,252 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+
+.hero { background-image: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/1-new-orleans-skyline-lightkey.jpg);
+background-size: cover;
+
+margin-left: 20px;
+position: absolute;
+width: 100%;
+margin-left: 0;
+height: 343px;
+left: 0px;
+top: 0px;
+}
+.act {
+    position: absolute;
+
+height: 343px;
+left: 0px;
+top: 343px;
+margin-right: 0;
+width: 100%;
+
+background: #F1FAEE;
+}
+.pc {
+    
+position: absolute;
+width: 100px;
+height: 99.34px;
+left: 83px;
+top: 59px;
+}
+
+.pcp {
+    position: absolute;
+width: 103.97px;
+height: 103.97px;
+left: 314px;
+top: 58px;
+
+}
+
+.pcpr {
+    position: absolute;
+width: 100.66px;
+height: 100.66px;
+left: 536.34px;
+top: 58px;
+}
+
+.me {
+    position: absolute;
+width: 180px;
+height: 248.67px;
+left: 173px;
+top: 73px;
+float: left;
+
+border-radius: 10px;
+}
+#bottom {
+    position: absolute;
+    width: 400px;
+    height: 294px;
+    left: 160px;
+    top: 50px;
+    
+    background: #A8DADC;
+    box-shadow: 0px 6px 0px #1D3557;
+    border-radius: 10px;
+}
+.ft {
+    
+position: absolute;
+width: 720px;
+height: 394px;
+left: 0px;
+top: 686px;
+
+background:white;
+}
+.picone {
+    display: block;
+    justify-content: start
+}
+#par1 {
+    
+position: absolute;
+width: 198px;
+height: 55px;
+left: 34px;
+top: 230px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+
+color: #1D3557;
+}
+
+#head1 {
+    position: absolute;
+width: 183px;
+height: 32px;
+left: 41px;
+top: 181px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+
+color: #1D3557;
+}
+.head2 {
+    position: absolute;
+width: 162px;
+height: 35px;
+left: 283px;
+top: 180px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+}
+
+#par2 {
+    position: absolute;
+width: 198px;
+height: 54px;
+left: 265px;
+top: 231px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+
+}
+.head3 {
+    position: absolute;
+width: 197px;
+height: 38px;
+left: 488px;
+top: 181px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+
+}
+
+#par3 {
+    position: absolute;
+width: 198px;
+height: 54px;
+left: 488px;
+top: 231px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+
+}
+
+.pc, .pcp, .pcpr {
+    border-radius: 50%;
+}
+.lstpic {
+    position: absolute;
+width: 180px;
+height: 248.67px;
+left: 173px;
+top: 73px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+
+background: url("https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/283808569_5425822354096160_4129470674295863751_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=gVO5GnmQGsIAX_m6fZH&_nc_ht=scontent-dfw5-1.xx&oh=00_AT_Y-ptFK9-a9gQhXHRFCS-CqOFKoT6jISCOqb-cbIhRPA&oe=62923EA0");
+border-radius: 10px;
+background-size: cover;
+margin-left: 0;
+}
+.lastclass {
+    position: absolute;
+width: 207px;
+height: 32px;
+left: 349px;
+top: 99px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+float: left;
+
+}
+.lastp {
+    position: absolute;
+width: 189px;
+height: 71px;
+left: 360px;
+top: 145px;
+
+font-family: 'Arial';
+font-style: italic;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+margin-left: 0;
+}
+.lastline {
+    position: absolute;
+width: 189px;
+height: 18px;
+left: 358px;
+top: 242px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+
+}
+.hero:hover {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl4767tKkc6BAmCjdLFhNQS1221nLL_rbyiBDla1vrykJsNuEZ_-QwSm5QDlX8hjM9WAE&usqp=CAU");
+}
